@@ -1,5 +1,5 @@
 '''
-@author: Yogeshwar Shukla 
+@author: Ajinkya Patil
 @goal: To demonstrate basic file handling operations. 
 How to 
 a) Open File 

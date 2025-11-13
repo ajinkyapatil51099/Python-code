@@ -1,0 +1,5 @@
+def ---------------------------------
+#notes
+
+https://leanpub.com/insidethepythonvirtualmachine/read
+
